@@ -1,0 +1,10 @@
+[workspace]
+authors = ["udit-asopa <udit.asopa@gmail.com>"]
+channels = ["conda-forge"]
+name = "genai_kaggle"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
